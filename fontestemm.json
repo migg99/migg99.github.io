@@ -1,1 +1,18 @@
 
+
+{
+    "name": "Movie Cinema Simulator",
+    "description": "Fonte personalizada para Movie Cinema Simulator",
+    "games": [
+      {
+        "title": "Movie Cinema Simulator",
+        "platform": "PC",
+        "url": "https://seu-link-aqui.com/movie-cinema-simulator.zip",
+        "size": "2GB",
+        "version": "1.0"
+      }
+    ]
+  }
+  
+
+
